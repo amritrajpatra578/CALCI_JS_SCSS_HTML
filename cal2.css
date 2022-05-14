@@ -1,0 +1,78 @@
+body {
+  margin: 10em;
+  padding: 5em;
+  border: 3em black;
+}
+
+#clear1 {
+  background-color: #4dbb7fc5;
+  color: black;
+  border: 1px solid #111010;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#clear2 {
+  background-color: #4dbb7fc5;
+  color: black;
+  border: 1px solid #111010;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#ot {
+  font-size: 1.5em;
+  font-style: italic;
+  color: black;
+  border: none;
+  border-radius: 10px;
+}
+
+#CONT {
+  font-style: italic;
+}
+
+#add {
+  background-color: #4dbb7fc5;
+  color: black;
+  border: 1px solid #111010;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#sub {
+  background-color: #4dbb7fc5;
+  color: black;
+  border: 1px solid #111010;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#mult {
+  background-color: #4dbb7fc5;
+  color: black;
+  border: 1px solid #111010;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#div {
+  background-color: #4dbb7fc5;
+  color: black;
+  border: 1px solid #111010;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#relval {
+  background-color: #4dbb7fc5;
+  color: black;
+  border: 1px solid #111010;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+body {
+  background-color: #e3f9d8;
+}
+/*# sourceMappingURL=cal2.css.map */

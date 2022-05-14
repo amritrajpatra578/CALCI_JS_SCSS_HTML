@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="cal2.css">
+    <title>calculator(2)</title>
+</head>
+<body>
+    <div class="cont" id="CONT" >
+        <a id="1st">1st value:</a><br>
+        <input type="text" id="first">
+        <button id="clear1" onclick="clear1()">clear value</button><br><br>
+
+        <a id="2nd">2nd value:</a><br>
+        <input type="text" id="second">
+        <button id="clear2" onclick="clear2()">clear value</button><br><br>
+        
+            <button value="+" id="add" onclick="addd()">add</button>
+            <button value="-" id="sub" onclick="subb()">sub</button>
+            <button value="*" id="mult" onclick="multt()">mult</button>
+            <button value="/" id="div" onclick="divv()">div</button>
+            
+        
+        <p>value is:</p>
+    <div id="ot">
+        <p id="output">0</p>
+    </div>
+        <button id="relval" onclick="clearall()">release all data</button>
+
+<script src="cal2.js"></script>   
+    </div>
+</body>
+</html>
